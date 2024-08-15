@@ -1,0 +1,55 @@
+commands to open
+
+jupyter notebook
+
+pip install jupyter pandas seaborn sklearn
+
+jupyter notebook ---> for opening the notebook
+
+
+IRIS Database for starting machine learning
+
+!pip install matplotlib
+
+Linear Regression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+python -m notebook
+
+dd for clearning the lines
+shift enter for next line
+!pip install numpy    #for installing packages iside the jupyter notebook
+
+pip install pandas  ---> storing and analysing the data like excel
+pip install sklearn  --> for ai
+pip install jupyter notebook
+pip install seaborn --> visualizing the data like graphs and so on
+
